@@ -1,0 +1,32 @@
+{
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "name": "Pamellion",
+      "age": "2",
+      "place": "Delhi",
+      "gender": "female",
+      "id": 2
+    },
+    {
+      "name": "abbc",
+      "age": "4",
+      "place": "Ranchi",
+      "gender": "male",
+      "id": 3
+    },
+    {
+      "name": "kkkkk",
+      "age": "5",
+      "place": "Chattisgarh",
+      "gender": "female",
+      "id": 4
+    }
+  ]
+}
